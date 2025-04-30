@@ -1,6 +1,6 @@
 # CityWander – Tourism App for Salerno
 
-![CityWander Logo](image/CityWander%20logo.png)
+![CityWander Logo](CityWander%20logo.png)
 
 **CityWander** is a mobile application designed to enhance the tourism experience in Salerno. In collaboration with the company **ITSvil**, CityWander provides personalized and immersive tours of the historic center of Salerno, using modern technologies such as geofencing, gamification, crowdfunding, and image recognition.
 
