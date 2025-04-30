@@ -84,9 +84,10 @@ CityWander/
 
 ## 👥 Contributors
 
-- Di Maio Marco
 - Arcangeli Giovanni
-- Ciancio Vittorio
+- Campochiaro Fabiano
+- Di Lauro Francesco
+- Di Maio Marco
 
 ---
 
