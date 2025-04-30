@@ -47,6 +47,18 @@ CityWander is an innovative tourism app for Salerno, offering:
 
 ---
 
+---
+
+## 📲 Download APK
+
+The **CityWander** app can be downloaded and installed directly on your Android device using the APK file:
+
+- [Download CityWander APK (app-arm64-v8a-release.apk)](app-arm64-v8a-release.apk)
+
+Simply download the APK, enable installation from unknown sources in your Android settings, and install the app to begin your personalized tourism experience in Salerno.
+
+---
+
 ## 📁 Repository Structure
 
 ```plaintext
@@ -68,6 +80,7 @@ CityWander/
 │
 ├── CityWander logo esteso.png
 ├── CityWander logo.png
+├── app-arm64-v8a-release.apk
 ├── .gitignore → Git ignore file 
 └── README.md → Project documentation (this file)
 ```
