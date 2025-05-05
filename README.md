@@ -99,7 +99,7 @@ CityWander/
 
 ## 👥 Contributors
 
-- Arcangeli Giovanni
+- [Arcangeli Giovanni] (https://github.com/GiovanniArcangeli)
 - Campochiaro Fabiano
 - Di Lauro Francesco
 - Di Maio Marco
