@@ -218,7 +218,7 @@ Simply download the APK, enable installation from unknown sources in your Androi
 - [Di Lauro Francesco](https://github.com/NOT-FRY)
 - Di Maio Marco
 
-**In collaboration with [ITSvil S.r.l.](https://www.itsvil.com/), as part of an academic-industry project at the University of Salerno.**
+**In collaboration with [ITSvil S.r.l.](https://www.itsvil.it/), as part of an academic-industry project at the University of Salerno.**
 
 ---
 
