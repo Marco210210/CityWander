@@ -222,4 +222,6 @@ Simply download the APK, enable installation from unknown sources in your Androi
 
 ## 📄 License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [![License: CC BY-NC-ND 4.0](https://licensebuttons.net/l/by-nc-nd/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc-nd/4.0/).  
+You may view, share and reference this work, but not modify or use it commercially without permission.
+
