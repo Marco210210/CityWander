@@ -171,7 +171,7 @@ Requires **Flutter 3.13.6**.
 
 ```plaintext
 CityWander/ 
-├── code/ → Source code (not publicly available due to confidentiality agreements) 
+├── code/ → Source code
 │
 ├── docs/ → Documentation 
 │ ├── Volantino tecnologie CityWander.png → Brochure of technologies used 
