@@ -8,7 +8,7 @@ import java.net.URL;
 
 public class Geocoding {
 
-    private static final String API_KEY = "66d388d8cbb24004b0c5dd2a334c35b8";
+    private static final String API_KEY = "";
 
     public static String geocoding(String location) throws IOException {
         // Define the address to geocode
