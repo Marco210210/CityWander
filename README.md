@@ -215,7 +215,7 @@ Simply download the APK, enable installation from unknown sources in your Androi
 
 - [Arcangeli Giovanni](https://github.com/GiovanniArcangeli)
 - Campochiaro Fabiano 
-- Di Lauro Francesco
+- [Di Lauro Francesco](https://github.com/NOT-FRY)
 - Di Maio Marco
 
 ---
